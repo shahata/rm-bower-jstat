@@ -2571,6 +2571,6 @@ DistributionFactory.build = function(json) {
     } else {
         throw "Malformed JSON provided to DistributionBuilder " + json;
     }
-}
+};
 
 
